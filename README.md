@@ -12,3 +12,4 @@ sekarang mari kita mulai cara pengunduhannya dan hal lainnya dari awal
 - ffmpeg
 
 ---
+## A. Install Python
