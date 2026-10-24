@@ -1,4 +1,3 @@
 # Cara Mengunduh dan Menggunakan YT-DRP
 ---
-## Penjelasan
---
+## 1. Penjelasan
