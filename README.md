@@ -10,3 +10,5 @@ sekarang mari kita mulai cara pengunduhannya dan hal lainnya dari awal
 - Python
 - yt-dlp
 - ffmpeg
+
+[=====================================================]
