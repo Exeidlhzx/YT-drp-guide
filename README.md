@@ -15,8 +15,5 @@ sekarang mari kita mulai cara pengunduhannya dan hal lainnya dari awal
 ## A. Install Python
 Unduh Python Dari situs resminya
 
-[Python]([https://www.python.org/downloads/windows/)
-
-[YouTube](https://youtube.com/@x_not_found?si=UuGIni9iygkjUcFK)
-[Instagram](https://www.instagram.com/indra_refalino_3966?stkn=MXAxYmJ0ejhkdWEyeg==)
+[klik ini](https://www.python.org/downloads/windows/)
 
